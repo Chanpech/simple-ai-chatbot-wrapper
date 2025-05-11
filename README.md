@@ -42,9 +42,10 @@ Below is a screenshot of the chatbot UI in action:
 
 ## 📌 Getting Started
 
-1. Clone the repo
-2. Set up your `.env.local` file with your Gemini API key:
-NEXT_PUBLIC_GEMINI_API_KEY=your_api_key_here
+1. Clone the repo/
+2. Get your API key from `https://console.cloud.google.com/welcome/new?inv=1&invt=AbxEJg&project=gen-lang-client-0323525482`
+3. Set up your `.env.local` file with your Gemini API key:
+`NEXT_PUBLIC_GEMINI_API_KEY=your_api_key_here`
 
 arduino
 Copy
