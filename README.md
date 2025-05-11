@@ -40,5 +40,23 @@ Below is a screenshot of the chatbot UI in action:
 - Google GenAI SDK (`@google/genai`)
 - Google Cloud Platform (GCP)
 
-## 📂 Project Structure
+## 📌 Getting Started
 
+1. Clone the repo
+2. Set up your `.env.local` file with your Gemini API key:
+NEXT_PUBLIC_GEMINI_API_KEY=your_api_key_here
+
+arduino
+Copy
+Edit
+3. Run the app:
+```bash
+npm install
+npm run dev
+```
+
+🔮 Future Ideas
+Add Markdown rendering for AI responses
+Enable voice input and audio responses
+Chain of thought prompting
+Deploy on Vercel 
