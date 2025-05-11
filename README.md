@@ -55,8 +55,9 @@ npm install
 npm run dev
 ```
 
-🔮 Future Ideas
-Add Markdown rendering for AI responses
-Enable voice input and audio responses
-Chain of thought prompting
-Deploy on Vercel 
+## 🔮 Future Ideas
+
+- Add Markdown rendering for AI responses
+- Enable voice input and audio responses
+- Chain of thought prompting
+- Deploy on Vercel 
