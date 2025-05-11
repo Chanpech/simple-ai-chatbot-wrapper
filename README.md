@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💬 Gemini AI Chatbot UI
 
-## Getting Started
+This project is a simple but powerful web-based chatbot that wraps Google's Generative AI SDK on top of Next.js, allowing users to interact with the **Gemini 2.0 Flash** model in real-time through a clean, responsive user interface.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- User-friendly React frontend with dynamic question input
+- Real-time interaction with Gemini AI (Google Generative AI SDK)
+- Styled using Tailwind CSS for clean, modern UI
+- Fully integrated with **Google Cloud Console** for API configuration and billing
+- Supports Google's **$300 Free Trial Credit**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧠 What I Learned
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project taught me how to:
 
-## Learn More
+- Set up and manage API credentials using the **Google Cloud Console**
+- Enable the **Generative Language API**
+- Understand API usage tracking and billing activity
+- Handle async interactions and error states in React
+- Design an engaging and responsive UI with Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+## 💡 Motivation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Google’s $300 Free Trial Credit made this the perfect opportunity to explore LLMs in a low-risk way. With this foundation, I plan to build more advanced AI-driven applications—ranging from personal assistants to domain-specific agents.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📷 Preview
 
-## Deploy on Vercel
+Below is a screenshot of the chatbot UI in action:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Chatbot UI Screenshot](./public/GeminiAIChat.PNG) 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🛠️ Technologies Used
+
+- React / Next.js
+- Tailwind CSS
+- Google GenAI SDK (`@google/genai`)
+- Google Cloud Platform (GCP)
+
+## 📂 Project Structure
+
