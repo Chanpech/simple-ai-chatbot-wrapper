@@ -47,7 +47,6 @@ Below is a screenshot of the chatbot UI in action:
 3. Set up your `.env.local` file with your Gemini API key:
 `NEXT_PUBLIC_GEMINI_API_KEY=your_api_key_here`
 
-arduino
 Copy
 Edit
 3. Run the app:
